@@ -1,4 +1,4 @@
-# AAPM 2023 Annual Meeting Data Science Bootcamp: Magnetic Resonance
+# AAPM Annual Meeting 2023 Data Science Bootcamp: Magnetic Resonance Imaging
 Open medical imaging data sets can be impactful resources for the development of artificial intelligence (AI) algorithms, including validation and external testing. This bootcamp is designed to help attendees get started with exploring and preparing MRI data for AI methods, including deep learning. The presentations will include a practical overview to accessing open MRI data sets (such as at http://data.midrc.org, the Medical Imaging and Data Resource Center) and preparing data for deep learning. Open-source tools for getting started will be provided.
 
 Learning Objectives:
@@ -18,4 +18,5 @@ Resources described in the bootcamp:
 1. Sign up for MIDRC (http://data.midrc.org)
 2. References on pre-processing MR images
 3. References on use cases
-4. MONAI/PyTorch
+4. Training data: https://osf.io/bj69m/, paper at https://www.nature.com/articles/s41597-022-01222-8
+5. MONAI/PyTorch

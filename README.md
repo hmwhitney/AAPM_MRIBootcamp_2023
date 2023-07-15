@@ -15,8 +15,9 @@ Stephanie Harmon
 National Cancer Institute, Washington, DC
 
 Resources described in the bootcamp:
-1. Sign up for MIDRC (http://data.midrc.org)
-2. References on pre-processing MR images
-3. References on use cases
-4. Training data: https://osf.io/bj69m/, paper at https://www.nature.com/articles/s41597-022-01222-8
-5. MONAI/PyTorch
+1. Sign up for access to the Medical Imaging and Data Resource Center (http://data.midrc.org)
+2. Jupyter notebook for downloading specific MRI datasets from MIDRC.
+3. References on pre-processing MR images (to be added)
+4. References on use cases (to be added)
+5. Training data: https://osf.io/bj69m/, paper at https://www.nature.com/articles/s41597-022-01222-8
+6. MONAI/PyTorch

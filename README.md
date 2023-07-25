@@ -17,7 +17,7 @@ National Cancer Institute, Washington, DC
 Resources described in the bootcamp:
 1. Sign up for access to the Medical Imaging and Data Resource Center (http://data.midrc.org)
 2. Jupyter notebook for downloading specific MRI datasets from MIDRC.
-3. References on pre-processing MR images (to be added)
-4. References on use cases (to be added)
+3. References on pre-processing MR images: https://pubmed.ncbi.nlm.nih.gov/33426151/
+4. Jupyter notebook for processing and analyzing T1 SAG MRI of the spine for lumbar segmentation
 5. Training data: https://osf.io/bj69m/, paper at https://www.nature.com/articles/s41597-022-01222-8
-6. MONAI/PyTorch
+6. MONAI/PyTorch Use Cases: https://github.com/Project-MONAI/tutorials
